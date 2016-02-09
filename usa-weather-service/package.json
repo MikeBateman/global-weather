@@ -1,0 +1,14 @@
+{
+  "name": "usa-weather-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mike Bateman",
+  "license": "MIT",
+  "dependencies": {
+    "test-weather-service": "file:..\\test-weather-service"
+  }
+}

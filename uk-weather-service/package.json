@@ -1,0 +1,15 @@
+{
+  "name": "uk-weather-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mike Bateman",
+  "license": "MIT",
+  "dependencies": {
+    "test-weather-api": "file:..\\test-weather-service",
+    "test-weather-service": "file:..\\test-weather-service"
+  }
+}
